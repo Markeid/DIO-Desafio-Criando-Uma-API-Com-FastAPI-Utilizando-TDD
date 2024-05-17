@@ -8,7 +8,7 @@
 
 Este é um desafio de projeto do **Coding The Future Vivo - Python AI Backend Developer** 
 
-Desafio: Desenvolvendo sua Primeira API com FastAPI, Python e Docker
+Desafio: Criando Uma API Com FastAPI Utilizando TDD
 
 **Funcionalidades** 🛠️
 
