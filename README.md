@@ -33,9 +33,14 @@ Instalando o pre-commit
 ````commandline
 invoke precommit-install
 ````
-Rodanto os testes
+Rodando os testes
 ````commandline
 invoke test
+````
+Executando testes que correspondam a uma determinada expressão
+````commandline
+invoke test-matching -k "test_usecases_query_should_return_success"
+````
 
 # TDD Project
 
