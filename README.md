@@ -231,9 +231,3 @@ Vamos utilizar Pyenv + Poetry, link de como preparar o ambiente abaixo:
 [mongo-motor](https://motor.readthedocs.io/en/stable/)
 
 [pytest](https://docs.pytest.org/en/7.4.x/)
-````
-Executando testes que correspondam a uma determinada expressão
-````commandline
-invoke test-matching -k "test_usecases_query_should_return_success"
-````
-
